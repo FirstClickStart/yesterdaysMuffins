@@ -18,7 +18,7 @@ using ActiveDisco;
 
 namespace ActiveDisco
 {
-    [Activity(MainLauncher = true,
+    [Activity(MainLauncher = false,
                Icon = "@drawable/ic_launcher", Label = "@string/app_name",
                Theme = "@style/AppTheme")] 
     public class MainActivity : Activity,IOnMapReadyCallback

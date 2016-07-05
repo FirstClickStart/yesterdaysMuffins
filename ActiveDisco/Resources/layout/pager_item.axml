@@ -3,19 +3,16 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-android:gravity ="center">
-  <TextView
-     android:id ="@+id/item_subtitle"
-     android:layout_width ="match_parent"
-     android:layout_height="match_parent"
-     android:textAppearance="?android:attr/textAppearanceLarge"
-     android:text ="Page"
-/>
-  <TextView
-    android:id ="@+id/item_title"
-     android:layout_width ="match_parent"
-     android:layout_height="match_parent"
-    android:textSize="80sp"
-    />
-
+    android:gravity="center">
+    <TextView
+        android:id="@+id/item_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Page" />
+    <TextView
+        android:id="@+id/item_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="80sp" />
 </LinearLayout>

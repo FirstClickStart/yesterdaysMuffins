@@ -1,0 +1,15 @@
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\bin\Debug\CommonSampleLibrary.dll
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\bin\Debug\CommonSampleLibrary.pdb
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\bin\Debug\CommonSampleLibrary.CommonSampleLibrary.apk
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\bin\Debug\CommonSampleLibrary.CommonSampleLibrary-Signed.apk
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\CommonSampleLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\CommonSampleLibrary.dll
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\CommonSampleLibrary.pdb
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\android\bin\CommonSampleLibrary.CommonSampleLibrary.apk
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\res\values\strings.xml
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\R.cs.flag
+C:\Users\Chris\Downloads\monodroid-samples-master\monodroid-samples-master\CommonSampleLibrary\obj\Debug\uploadflags.txt
+C:\GitHub\yesterdaysMuffins\obj\Debug\CommonSampleLibrary.dll.mdb
+C:\GitHub\yesterdaysMuffins\bin\Debug\CommonSampleLibrary.dll.mdb
+C:\GitHub\yesterdaysMuffins\obj\Debug\CommonSampleLibrary.dll.mdb
+C:\GitHub\yesterdaysMuffins\bin\Debug\CommonSampleLibrary.dll.mdb
